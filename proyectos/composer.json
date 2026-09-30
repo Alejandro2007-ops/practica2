@@ -1,0 +1,10 @@
+{
+    "name": "root/html",
+    "description": "Practica para el parcial",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
